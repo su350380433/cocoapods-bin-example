@@ -1,5 +1,5 @@
 ---
-code_repo_url: https://github.com/for-example-test/PrivateSpecRepo.git
-binary_repo_url: https://github.com/for-example-test/PrivateBinSpecRepo.git
-binary_download_url: http://localhost:8080/framework/%s/%s/zip
+code_repo_url: https://gitlab.meiyou.com/Youbaobao/privatespecrepo_ex.git
+binary_repo_url: https://gitlab.meiyou.com/Youbaobao/privatespecrepo_ex.git
+binary_download_url: http://localhost:9192/framework/%s/%s/zip
 download_file_type: zip
